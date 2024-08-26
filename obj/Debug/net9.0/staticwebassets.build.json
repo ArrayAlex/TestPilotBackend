@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "mnO3iKOKI88pR9EzRSTo0WSWw1O/FYT/1lcqHx6Dp3o=",
+  "Source": "TestPilotBackend",
+  "BasePath": "_content/TestPilotBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
